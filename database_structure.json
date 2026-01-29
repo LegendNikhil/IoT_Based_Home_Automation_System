@@ -1,0 +1,9 @@
+{
+  "home": {
+    "light": false,
+    "fan": false,
+    "pump": false,
+    "temperature": 0,
+    "moisture": 0
+  }
+}
